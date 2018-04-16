@@ -4,6 +4,7 @@
 
 # Plan of the talk
 
+TBA
 
 # In the hacker spirit
 
@@ -15,25 +16,66 @@ This presentation built with
 
 Please see `README.md` for various copyrights on image files.
 
-# Hacker ethic
+# The toolkit metaphor
 
-* Sharing
-* Openness
-* Decentralization
-* Free access to computers
-* World Improvement
+> Since 1998, Software Carpentry has been teaching researchers the computing
+> skills they need to get more done in less time and with less pain --
+> [Software Carpentry website](https://software-carpentry.org/about).
 
--- https://en.wikipedia.org/wiki/Hacker_ethic
+# The tools are standard
 
-# The difference between true and false
+> Computers are now essential in all branches of science, but most researchers
+> are never taught the equivalent of basic lab skills for research computing.
+> As a result, data can get lost, analyses can take much longer than
+> necessary, and researchers are limited in how effectively they can work with
+> software and data -- Wilson *et al* (2017) "Good enough practices in
+> scientific computing"
+> [link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
-> In studies for which findings could be reproduced, authors had paid close
-> attention to controls, reagents, investigator bias and describing the
-> complete data set. For results that could not be reproduced, however, data
-> were not routinely analysed by investigators blinded to the experimental
-> versus control groups. Investigators frequently presented the results of one
-> experiment, such as a single Western-blot analysis. They sometimes said they
-> presented specific experiments that supported their underlying hypothesis,
-> but that were not reflective of the entire data set.
+# The journey is long
 
-Begley and Ellis (2012).
+[Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html)
+
+# Simple compared to easy
+
+> The roots of "simple" are "sim" and "plex", and means "one twist". The
+> opposite, which would be complex, is "multiple twists" or "braided
+> together" ...
+> The latin origin of "easy" is the root of "adjacent", which means "to lie
+> near" and "to be nearby" -- Rich Hickey [Simple Made
+> Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+
+# Simple compared to easy
+
+\centerline{\includegraphics[height=2in]{images/braiding.png}}
+
+# You will be tempted to keep doing it the easy way
+
+> A couple of months in the laboratory can frequently save a couple of hours
+> in the library -- Frank Westheimer
+> [link](https://en.wikiquote.org/wiki/Frank_Westheimer)
+
+# But this will have terrible cost in the medium and long term
+
+\centerline{\includegraphics[height=2in]{images/simple_easy_times.png}}
+
+From presentation [Simple Made
+Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+
+# One tool for one job
+
+3. THE BASIC TOOLS
+
+    14. The Power of Plain Text
+    15. Shell Games
+    16. Power Editing
+    17. Source Code Control
+    18. Debugging
+    19. Text Manipulation
+    20. Code Generators
+
+[The Pragmatic
+Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+
+* The (Unix) command line;
+* 
