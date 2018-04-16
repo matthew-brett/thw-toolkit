@@ -45,8 +45,7 @@ Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 * Find efficient people;
 * Learn from them!
 * Read - e.g. Wilson *et al* (2017) [Good enough practices in scientific
-  computing]
-  (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.10055100)
+  computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
   *PLoS Comp Bio*
 
 # Choosing tools - simple rather than easy
@@ -79,10 +78,11 @@ Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 
 You may not know it yet, but you will need:
 
-* [git](https://git-scm.com);
+* [Git](https://git-scm.com);
 * (something like) [Github](https://github.com).
 
-"FINAL".doc at http://phdcomics.com/comics/archive.php?comicid=1531
+["FINAL".doc](http://phdcomics.com/comics/archive.php?comicid=1531); [A story
+told in file names](http://phdcomics.com/comics/archive.php?comicid=1323)
 
 # A general purpose programming language
 
@@ -93,6 +93,7 @@ Prefer open: popular options are:
 
 # Standard programming tools
 
+* Finding the right libraries to use and contribute to;
 * Testing;
 * Continuous integration;
 * Process automation with `make` and shell scripting.
@@ -102,12 +103,12 @@ Prefer open: popular options are:
 * [The Jupyter Notebook](https://jupyter.org);
 * [The R Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)
 
-# For example, this presentation
+# For example, for this presentation I
 
-* Uses plain text for everything;
-* I wrote it using the Vim editor;
-* Is stored with Git and uploaded to Github;
-* Uses the Unix command line and `make` for building.
+* Used plain text for everything;
+* wrote it using the Vim editor;
+* Stored it with Git and uploaded to Github;
+* Used the Unix command line and `make` for building.
 
 # Your tool here
 
