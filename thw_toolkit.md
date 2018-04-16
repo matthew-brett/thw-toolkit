@@ -2,35 +2,11 @@
 % Matthew Brett
 % April 16, 2018
 
-# Plan of the talk
-
-TBA
-
-# In the hacker spirit
-
-This presentation built with
-[Markdown](https://en.wikipedia.org/wiki/Markdown) and
-[Pandoc](http://pandoc.org), and available at:
-
-* https://github.com/matthew-brett/thw-toolkit
-
-Please see `README.md` for various copyrights on image files.
-
 # The toolkit metaphor
 
 > Since 1998, Software Carpentry has been teaching researchers the computing
 > skills they need to get more done in less time and with less pain --
 > [Software Carpentry website](https://software-carpentry.org/about).
-
-# The tools are standard
-
-> Computers are now essential in all branches of science, but most researchers
-> are never taught the equivalent of basic lab skills for research computing.
-> As a result, data can get lost, analyses can take much longer than
-> necessary, and researchers are limited in how effectively they can work with
-> software and data -- Wilson *et al* (2017) "Good enough practices in
-> scientific computing"
-> [link](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
 # The journey is long
 
@@ -42,27 +18,38 @@ Please see `README.md` for various copyrights on image files.
 > opposite, which would be complex, is "multiple twists" or "braided
 > together" ...
 > The latin origin of "easy" is the root of "adjacent", which means "to lie
-> near" and "to be nearby" -- Rich Hickey [Simple Made
-> Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+> near" and "to be nearby" -- Rich Hickey ["Simple Made
+> Easy"](https://www.infoq.com/presentations/Simple-Made-Easy)
 
 # Simple compared to easy
 
-\centerline{\includegraphics[height=2in]{images/braiding.png}}
+\centerline{\includegraphics[width=4in]{images/braiding.png}}
+
+Simple: clarity, efficiency, basis for learning.
 
 # You will be tempted to keep doing it the easy way
 
 > A couple of months in the laboratory can frequently save a couple of hours
 > in the library -- Frank Westheimer
-> [link](https://en.wikiquote.org/wiki/Frank_Westheimer)
+> [(link)](https://en.wikiquote.org/wiki/Frank_Westheimer)
 
-# But this will have terrible cost in the medium and long term
+# But this will have terrible long term cost
 
 \centerline{\includegraphics[height=2in]{images/simple_easy_times.png}}
 
 From presentation [Simple Made
 Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 
-# One tool for one job
+# Choosing your tools
+
+* Find efficient people;
+* Learn from them!
+* Read - e.g. Wilson *et al* (2017) [Good enough practices in scientific
+  computing]
+  (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.10055100)
+  *PLoS Comp Bio*
+
+# Choosing tools - simple rather than easy
 
 3. THE BASIC TOOLS
 
@@ -75,7 +62,53 @@ Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
     20. Code Generators
 
 [The Pragmatic
-Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 
-* The (Unix) command line;
-* 
+# Shell games
+
+* Use the (probably Unix) command line for everything you can;
+
+# Power editing
+
+> **Use a Single Editor Well**
+>
+> The editor should be an extension of your hand; make sure your editor is
+> configurable, extensible, and programmable -- The Pragmatic Programmer
+
+# Source code control
+
+You may not know it yet, but you will need:
+
+* [git](https://git-scm.com);
+* (something like) [Github](https://github.com).
+
+"FINAL".doc at http://phdcomics.com/comics/archive.php?comicid=1531
+
+# A general purpose programming language
+
+Prefer open: popular options are:
+
+* [Python](https://www.python.org)
+* [R](https://www.r-project.org) / [R Studio](https://www.rstudio.com)
+
+# Standard programming tools
+
+* Testing;
+* Continuous integration;
+* Process automation with `make` and shell scripting.
+
+# Notebooks
+
+* [The Jupyter Notebook](https://jupyter.org);
+* [The R Notebook](https://rmarkdown.rstudio.com/r_notebooks.html)
+
+# For example, this presentation
+
+* Uses plain text for everything;
+* I wrote it using the Vim editor;
+* Is stored with Git and uploaded to Github;
+* Uses the Unix command line and `make` for building.
+
+# Your tool here
+
+Over to you.
