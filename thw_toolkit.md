@@ -1,16 +1,30 @@
 % The Hacker Toolkit
 % Matthew Brett
-% April 16, 2018
+% January 20, 2020
+
+# Some stuff I do
+
+* Editing my software for making code templates.
+* Making presentations for THW
+
+# Presentation
+
+Stuff to add:
+
+* http://wiki.c2.com/?LazinessImpatienceHubris
+* https://www.needpix.com/photo/256453/climbing-wall-climb-climbing-rope-climbing-shoes-rope-climbing-belt-upgrade-access-skill
+
+# Theme
+
+* Simple not easy
+* [Continuous improvement](https://en.wikipedia.org/wiki/Kaizen)
+* [Keep moving forward](https://www.brainyquote.com/quotes/walt_disney_132637)
 
 # The toolkit metaphor
 
 > Since 1998, Software Carpentry has been teaching researchers the computing
 > skills they need to get more done in less time and with less pain --
 > [Software Carpentry website](https://software-carpentry.org/about).
-
-# The journey is long
-
-[Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html)
 
 # Simple compared to easy
 
